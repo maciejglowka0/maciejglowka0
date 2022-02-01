@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotto 2 po bugu", "Lotto 2 po bugu.csproj", "{8EC305BB-CAD6-42B0-A704-59FB7FE65B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC305BB-CAD6-42B0-A704-59FB7FE65B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC305BB-CAD6-42B0-A704-59FB7FE65B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC305BB-CAD6-42B0-A704-59FB7FE65B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC305BB-CAD6-42B0-A704-59FB7FE65B78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6FD77C6-A8EC-4E2E-99FA-22D84C244857}
+	EndGlobalSection
+EndGlobal
